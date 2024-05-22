@@ -29,4 +29,4 @@ docker compose up -d
 ## User Interface
 
 Install MongoDB Compass for a GUI interface
-[https://www.mongodb.com/docs/compass/current/](MongoDB Compass)
+[MongoDB Compass](https://www.mongodb.com/docs/compass/current/)
